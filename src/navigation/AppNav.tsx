@@ -1,12 +1,12 @@
 import {View, Text} from 'react-native';
 import React from 'react';
 
-const App = () => {
+const AppNav = () => {
   return (
     <View>
-      <Text>App</Text>
+      <Text>AppNav</Text>
     </View>
   );
 };
 
-export default App;
+export default AppNav;

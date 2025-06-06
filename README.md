@@ -32,6 +32,12 @@ npm run android
 yarn android
 ```
 
+### degit
+
+# use this command to clone the repo and then initialize your git repo
+
+npx degit your-org/rn-starter-template project_name
+
 ### iOS
 
 For iOS, remember to install CocoaPods dependencies (this only needs to be run on first clone or after updating native deps).
